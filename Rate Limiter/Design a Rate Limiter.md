@@ -53,3 +53,5 @@ Solution: We need answer this question to fully satisfy this requirement a) Wher
 
 ##### Challenges 
 There won't be global level control or policies
+
+Reference Link : [text](https://www.hellointerview.com/learn/system-design/problem-breakdowns/distributed-rate-limiter)
